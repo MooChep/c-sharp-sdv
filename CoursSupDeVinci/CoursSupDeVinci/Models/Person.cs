@@ -11,9 +11,9 @@ public class Person
 
     public int GetYearsOld()
     {
-        DateTime today = DateTime.Today;
+        var today = DateTime.Today;
 
-        int years = today.Year - Birthdate.Year;
+        var years = today.Year - Birthdate.Year;
 
         if (today.Month < Birthdate.Month || (today.Month == Birthdate.Month && today.Day < Birthdate.Day)) years--;
 

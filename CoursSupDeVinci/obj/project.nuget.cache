@@ -1,8 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "1kQS2iVbk5U=",
+  "dgSpecHash": "+C9sLiwyfzQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\ilanh\\RiderProjects\\TP1-SDV\\CoursSupDeVinci\\CoursSupDeVinci.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ilanh\\.nuget\\packages\\csvhelper\\33.1.0\\csvhelper.33.1.0.nupkg.sha512",
+    "C:\\Users\\ilanh\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.10\\microsoft.extensions.configuration.9.0.10.nupkg.sha512",
+    "C:\\Users\\ilanh\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.10\\microsoft.extensions.configuration.abstractions.9.0.10.nupkg.sha512",
+    "C:\\Users\\ilanh\\.nuget\\packages\\microsoft.extensions.configuration.environmentvariables\\9.0.10\\microsoft.extensions.configuration.environmentvariables.9.0.10.nupkg.sha512",
+    "C:\\Users\\ilanh\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\9.0.10\\microsoft.extensions.configuration.fileextensions.9.0.10.nupkg.sha512",
+    "C:\\Users\\ilanh\\.nuget\\packages\\microsoft.extensions.configuration.json\\9.0.10\\microsoft.extensions.configuration.json.9.0.10.nupkg.sha512",
+    "C:\\Users\\ilanh\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\ilanh\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\9.0.10\\microsoft.extensions.fileproviders.abstractions.9.0.10.nupkg.sha512",
+    "C:\\Users\\ilanh\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\9.0.10\\microsoft.extensions.fileproviders.physical.9.0.10.nupkg.sha512",
+    "C:\\Users\\ilanh\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\9.0.10\\microsoft.extensions.filesystemglobbing.9.0.10.nupkg.sha512",
+    "C:\\Users\\ilanh\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\ilanh\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.10\\microsoft.extensions.primitives.9.0.10.nupkg.sha512",
+    "C:\\Users\\ilanh\\.nuget\\packages\\npgsql\\9.0.4\\npgsql.9.0.4.nupkg.sha512"
+  ],
   "logs": []
 }

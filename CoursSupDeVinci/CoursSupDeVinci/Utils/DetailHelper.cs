@@ -9,11 +9,11 @@ public static class DetailHelper
             throw new ArgumentException("L'adresse ne peut pas être vide.", nameof(input));
 
         // On découpe les éléments : Rue ; Code Postal ; Ville
-        string[] parts = input.Split(';');
-        
-        string street = parts[0].Trim();
+        var parts = input.Split(';');
+
+        var street = parts[0].Trim();
         int zipCode;
-        string city = parts[2].Trim();
+        var city = parts[2].Trim();
 
         // On tente de convertir le code postal en entier
         if (!int.TryParse(parts[1].Trim(), out zipCode))
@@ -22,6 +22,5 @@ public static class DetailHelper
 
         // Création et retour d'une liste contenant un objet Detail
         return new List<Detail> { new(street, zipCode, city) };
-
     }
 }

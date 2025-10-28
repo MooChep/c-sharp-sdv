@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ilanh\\RiderProjects\\TP1-SDV\\CoursSupDeVinci\\CoursSupDeVinci.csproj": {}
+    "C:\\Users\\ilanh\\RiderProjects\\TP1-SDV\\CoursSupDeVinci\\CoursSupDeVinci\\CoursSupDeVinci.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ilanh\\RiderProjects\\TP1-SDV\\CoursSupDeVinci\\CoursSupDeVinci.csproj": {
+    "C:\\Users\\ilanh\\RiderProjects\\TP1-SDV\\CoursSupDeVinci\\CoursSupDeVinci\\CoursSupDeVinci.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ilanh\\RiderProjects\\TP1-SDV\\CoursSupDeVinci\\CoursSupDeVinci.csproj",
+        "projectUniqueName": "C:\\Users\\ilanh\\RiderProjects\\TP1-SDV\\CoursSupDeVinci\\CoursSupDeVinci\\CoursSupDeVinci.csproj",
         "projectName": "CoursSupDeVinci",
-        "projectPath": "C:\\Users\\ilanh\\RiderProjects\\TP1-SDV\\CoursSupDeVinci\\CoursSupDeVinci.csproj",
+        "projectPath": "C:\\Users\\ilanh\\RiderProjects\\TP1-SDV\\CoursSupDeVinci\\CoursSupDeVinci\\CoursSupDeVinci.csproj",
         "packagesPath": "C:\\Users\\ilanh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ilanh\\RiderProjects\\TP1-SDV\\CoursSupDeVinci\\obj\\",
+        "outputPath": "C:\\Users\\ilanh\\RiderProjects\\TP1-SDV\\CoursSupDeVinci\\CoursSupDeVinci\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ilanh\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -43,24 +43,6 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "dependencies": {
-            "CsvHelper": {
-              "target": "Package",
-              "version": "[33.1.0, )"
-            },
-            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
-              "target": "Package",
-              "version": "[9.0.10, )"
-            },
-            "Microsoft.Extensions.Configuration.Json": {
-              "target": "Package",
-              "version": "[9.0.10, )"
-            },
-            "Npgsql": {
-              "target": "Package",
-              "version": "[9.0.4, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
